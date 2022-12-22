@@ -7,7 +7,8 @@
 git clone https://github.com/VisalAfghan1122/joker_clone.git
 # cd joker _clone
 # ls
-
+# python joker_clone.py
+# created by joker afghan
 
 
 
